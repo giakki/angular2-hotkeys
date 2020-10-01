@@ -1,6 +1,6 @@
 {
-    "name": "angular2-hotkeys",
-    "version": "2.2.0",
+    "name": "@giakki/angular2-hotkeys",
+    "version": "2.2.1",
     "scripts": {
         "build": "ng build angular2-hotkeys",
         "build:release": "ng build angular2-hotkeys --prod",
@@ -36,7 +36,7 @@
     },
     "dependencies": {
         "mousetrap": "^1.6.0",
-        "@types/mousetrap": "^1.6.0",
+        "@types/mousetrap": "1.6.3",
         "tslib": "^2.0.0"
     },
     "devDependencies": {
